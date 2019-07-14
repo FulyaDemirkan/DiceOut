@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiceOut</string>
+    <string name="action_settings">Settings</string>
+    <string name="rollBtn">Roll</string>
+    <string name="die1">Die 1</string>
+    <string name="die2">Die 2</string>
+    <string name="die3">Die 3</string>
+    <string name="resultText">Let\'s Play!</string>
+    <string name="scoreText">Score: 0</string>
+    <string name="resetBtn">Reset</string>
+</resources>
